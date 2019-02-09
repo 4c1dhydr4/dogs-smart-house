@@ -1,4 +1,4 @@
-El presente proyecto escrito en *Python* implementa un sistema de comunicación entre un Arduino y un ordenador, en este caso una Raspberry Pi para controlar la puerta de una casa para mascotas.
+El presente proyecto escrito en *Python* implementa un sistema de comunicación entre un *Arduino* y un ordenador, en este caso una *Raspberry Pi* para controlar la puerta de una casa para mascotas.
 
 El objetivo es mantener monitoreado a la mascota.
 
